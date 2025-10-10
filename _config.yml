@@ -52,3 +52,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+date_format: "%a, %d/%m/%Y - %H:%M"
