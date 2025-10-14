@@ -53,4 +53,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+excerpt_separator: <!--break-->
+show_excerpts: true
 date_format: "%a, %d/%m/%Y - %H:%M"
