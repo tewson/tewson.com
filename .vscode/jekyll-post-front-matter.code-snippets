@@ -1,0 +1,14 @@
+{
+	"Jekyll post front matter": {
+		"scope": "markdown",
+		"body": [
+			"---",
+			"layout: post",
+			"title: \"\"",
+			"date: ",
+			"permalink: ",
+			"---"
+		],
+		"description": "Front matter for a Jekyll post"
+	}
+}
