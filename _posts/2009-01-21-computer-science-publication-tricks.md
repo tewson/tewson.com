@@ -2,7 +2,7 @@
 layout: post
 title: "ลูกเล่นบางอย่างที่ช่วยเพิ่มโอกาสที่บทความวิจัยสาขาคอมพิวเตอร์และการควบคุมจะได้ตีพิมพ์"
 date: 2009-01-21T18:29:20.000Z
-permalink: /content/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%95%E0%B8%B5%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C
+permalink: /content/computer-science-publication-tricks
 ---
 
 ช่วงนี้งานยุ่งมาก ขอเอาของเก่าเก็บออกมาแปะไว้ก่อน เป็นการบรรยายเมื่อครั้งไปร่วมประชุมวิชาการ "นักวิจัยรุ่นใหม่พบเมธีวิจัยอาวุโส" ที่ชะอำ เมื่อกลางเดือนตุลาคมปีที่แล้ว หัวข้อจริง ๆ คือ "Some Useful Tricks to Enhance Journal Paper Acceptance Probability in Computer Science, Computer Engineering, Info Engineering, and Control System Engineering Areas" บรรยายโดย ศ.ดร.ชิดชนก เหลือสินทรัพย์ จากจุฬาลงกรณ์มหาวิทยาลัย เนื้อความที่สรุปมามีดังนี้
